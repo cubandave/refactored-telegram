@@ -2,7 +2,7 @@
 "Servers": [
 {
 "Version":"mdm-byod",
-"BaseURL":"https://JAMF_PRO_URL.org/servicediscoveryenrollment/v1/userenroll"
+"BaseURL":"https://jss.org/servicediscoveryenrollment/v1/userenroll"
 }
 ]
 }
